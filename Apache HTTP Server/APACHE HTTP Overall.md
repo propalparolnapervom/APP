@@ -5,6 +5,9 @@
 
 [Official Docs](https://httpd.apache.org/docs/trunk/getting-started.html)
 
+[HTTP Error Codes](https://wiki.apache.org/httpd/CommonHTTPStatusCodes)
+
+
 
 
 
