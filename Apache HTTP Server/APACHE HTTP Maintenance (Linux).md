@@ -20,7 +20,12 @@ httpd -v
       Server built:   Nov  1 2017 18:47:16
 ```
 
-### START/STOP
+### START/STOP/STATUS
+
+**Check status**
+```
+service httpd status
+```
 
 **Start**
 ```
